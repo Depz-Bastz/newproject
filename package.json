@@ -1,0 +1,11 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "we are making new application",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd."
+  },
+  "author": "deepak bastola",
+  "license": "MIT"
+}
